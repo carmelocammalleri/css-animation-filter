@@ -30,10 +30,10 @@
   transition: 2s;
  }
  
- .ex-3-square:hover {
-   display: none;
+ .ex-4-square:hover {
+   opacity: 0;
  }
- 
+
 /* esercizio 5 */
 /* esercizio 6 */
 /* esercizio 7 */
