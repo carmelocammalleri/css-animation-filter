@@ -48,8 +48,28 @@
  }
 
 /* esercizio 6 */
+ .ex-6-img:hover {
+   filter: grayscale(1);
+ }
+
 /* esercizio 7 */
+.ex-7-img{
+  transition: 1s;
+}
+
+.ex-7-img:hover {
+  filter: grayscale(.7) sepia(.5);
+}
+
 /* esercizio 8 */
+.ex-8-img{
+  transition: 1s;
+}
+.ex-8-img:hover{
+  border-radius: 25px 25px;
+  filter: grayscale(.5) sepia(.6);
+}
+
 /* esercizio 9 */
 /* esercizio 10 */
 /* esercizio 11*/
